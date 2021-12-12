@@ -28,7 +28,7 @@ Comming soon!
 
 ## Image
 
-![Interface](https://imgur.com/gallery/fk1CCCn)
+![Interface](https://cdn.discordapp.com/attachments/871082618815397958/919716810075557888/iMAGEN_1.png)
 
 ## Installation
 
