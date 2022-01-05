@@ -34,6 +34,7 @@ Comming soon!
 
 - Download the script and put it in the your server `dirctory`.
 - Add the following code to your server.cfg/resouces.cfg
+- Make sure don't change the resource name if you want to change name of resource you need to change name in js file
 ```
 ensure qb-core
 ensure dilza_crafting
